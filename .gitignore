@@ -1,0 +1,4 @@
+img/*.jpg
+.env
+/node_modules
+.vscode/
