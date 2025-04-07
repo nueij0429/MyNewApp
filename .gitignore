@@ -2,3 +2,4 @@ img/
 .env
 /node_modules
 .vscode/
+*.log
